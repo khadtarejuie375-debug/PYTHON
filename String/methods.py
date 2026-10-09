@@ -34,9 +34,12 @@ print(name.endswith("a"))
 # 10. Split string into
 print(text.split())
 
-# 11.
+# 11.join
 words = ["Python", "is", "fun"]
 print(" ".join(words))
 
+# 12 . partition
+text = input("welcome ","to","IMCC")
+print(text.partition())
 
 
